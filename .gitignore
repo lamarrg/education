@@ -176,3 +176,12 @@ cython_debug/
 
 # MacOS
 .DS_Store
+
+# VSCode and Cursor workspace files 
+*.code-workspace
+*.code-workspace.zip
+*.code-workspace.zip.part
+*.code-workspace.zip.part.zip
+*.code-workspace.zip.part.zip.part
+*.code-workspace.zip.part.zip.part.zip
+*.code-workspace.zip.part.zip.part.zip.part
