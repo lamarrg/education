@@ -1,1 +1,1 @@
-This folder is dedicated to the tasks suggested by ChatGPT. They are being numbered primarily to present the order in which they were generated. Numbering could include folders if projects require them. 
+This folder is dedicated to the projects suggested by ChatGPT. They are being numbered primarily to present the order in which they were generated, and to keep a semblance of order. Numbering could include folders if projects require them. 
