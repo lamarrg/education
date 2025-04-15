@@ -1,1 +1,3 @@
 This folder is dedicated to the projects suggested by ChatGPT. They are being numbered primarily to present the order in which they were generated, and to keep a semblance of order. Numbering could include folders if projects require them. 
+
+These projects will be commented when warranted, but there will most likely not be full error checking. They are being completed to prove the ability to complete, not to be made full production ready. 
