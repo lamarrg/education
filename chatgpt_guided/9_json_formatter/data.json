@@ -1,0 +1,10 @@
+{
+    "app_name": "MyApp",
+    "version": "1.0.2",
+    "debug": true,
+    "max_connections": 100,
+    "databases": {
+      "primary": "postgres://user:pass@localhost:5432/main",
+      "replica": "postgres://user:pass@localhost:5432/replica"
+    }
+  }
